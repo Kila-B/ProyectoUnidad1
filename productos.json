@@ -1,0 +1,207 @@
+{
+    "status": "success",
+    "items": [{
+            "id": 1,
+            "title": "Salon Omegas, x hora",
+            "price": 2300.00,
+            "image": "https://la-nueva-era-del-milenio.000webhostapp.com/salones/Salon1.jpg?auto=compress&amp;h=305",
+            "category": "Aire"
+        },
+        {
+            "id": 2,
+            "title": "Salon Kila x hora",
+            "price": 2300,
+            "image": "https://la-nueva-era-del-milenio.000webhostapp.com/salones/Salon2.jpg?auto=compress&amp;h=305",
+            "category": "Aire"
+        },
+        {
+            "id": 3,
+            "title": "Salon PIGUET x hora",
+            "price": 2300,
+            "image": "https://la-nueva-era-del-milenio.000webhostapp.com/salones/Salon3.jpg?auto=compress&amp;h=305",
+            "category": "Aire"
+        },
+        {
+            "id": 4,
+            "title": "Salon Bang x hora",
+            "price": 2300,
+            "image": "https://la-nueva-era-del-milenio.000webhostapp.com/salones/Salon4.jpg?auto=compress&amp;h=305",
+            "category": "Aire"
+        },
+        {
+            "id": 5,
+            "title": "Salon Date x hora",
+            "price": 1700,
+            "image": "https://la-nueva-era-del-milenio.000webhostapp.com/salones/Salon5.jpg?auto=compress&amp;h=305",
+            "category": "Manta"
+
+        },
+        {
+            "id": 6,
+            "title": "Salon TAG x hora",
+            "price": 1700,
+            "image": "https://la-nueva-era-del-milenio.000webhostapp.com/salones/Salon6.jpg?auto=compress&amp;h=305",
+            "category": "Manta"
+
+        },
+        {
+            "id": 7,
+            "title": "Salon Datejust x hora",
+            "price": 1700,
+            "image": "https://la-nueva-era-del-milenio.000webhostapp.com/salones/Salon7.jpeg?auto=compress&amp;h=305",
+            "category": "Manta"
+        },
+        {
+            "id": 8,
+            "title": "Salon Speedmaster x hora",
+            "price": 1700,
+            "image": "https://la-nueva-era-del-milenio.000webhostapp.com/salones/Salon8.jpg?auto=compress&amp;h=305",
+            "category": "Manta"
+        },
+        {
+            "id": 9,
+            "title": "Salon AUDEMARS x hora",
+            "price": 1900,
+            "image": "https://la-nueva-era-del-milenio.000webhostapp.com/salones/Salon9.jpg?auto=compress&amp;h=305",
+            "category": "Mobi"
+        },
+        {
+            "id": 10,
+            "title": "Salon Big x hora",
+            "price": 1900,
+            "image": "https://la-nueva-era-del-milenio.000webhostapp.com/salones/Salon10.jpg?auto=compress&amp;h=305",
+            "category": "Mobi"
+        },
+        {
+            "id": 11,
+            "title": "Salon el Dia x hora",
+            "price": 1900,
+            "image": "https://la-nueva-era-del-milenio.000webhostapp.com/salones/Salon11.jpeg?auto=compress&amp;h=305",
+            "category": "Mobi"
+        },
+        {
+            "id": 12,
+            "title": "Salon Calibre 50",
+            "price": 1900,
+            "image": "https://la-nueva-era-del-milenio.000webhostapp.com/salones/Salon12.jpeg?auto=compress&amp;h=305",
+            "category": "Mobi"
+        },
+        {
+            "id": 13,
+            "title": "Salon Roles x hora",
+            "price": 3200,
+            "image": "https://la-nueva-era-del-milenio.000webhostapp.com/salones/Salon13.jpeg?auto=compress&amp;h=305",
+            "category": "Ama"
+        },
+        {
+            "id": 14,
+            "title": "Salon OMEGA x hora",
+            "price": 3200,
+            "image": "https://la-nueva-era-del-milenio.000webhostapp.com/salones/Salon14.jpeg?auto=compress&amp;h=305",
+            "category": "Ama"
+        },
+        {
+            "id": 15,
+            "title": "Salon PIGlET x hora",
+            "price": 3200,
+            "image": "https://la-nueva-era-del-milenio.000webhostapp.com/salones/Salon15.jpeg?auto=compress&amp;h=305",
+            "category": "Ama"
+        },
+        {
+            "id": 16,
+            "title": "Salon HUBLOT x hora",
+            "price": 3200,
+            "image": "https://la-nueva-era-del-milenio.000webhostapp.com/salones/Salon16.jpg?auto=compress&amp;h=305",
+            "category": "Ama"
+        },
+        {
+            "id": 17,
+            "title": "Salon DateTime x hora",
+            "price": 3700,
+            "image": "https://la-nueva-era-del-milenio.000webhostapp.com/salones/Salon17.jpg?auto=compress&amp;h=305",
+            "category": "Amo"
+
+        },
+        {
+            "id": 18,
+            "title": "Salon HEUER x hora",
+            "price": 3700,
+            "image": "https://la-nueva-era-del-milenio.000webhostapp.com/salones/Salon18.jpg?auto=compress&amp;h=305",
+            "category": "Amo"
+
+        },
+        {
+            "id": 19,
+            "title": "Salon Dajust x hora",
+            "price": 3700,
+            "image": "https://la-nueva-era-del-milenio.000webhostapp.com/salones/Salon19.jpg?auto=compress&amp;h=305",
+            "category": "Amo"
+        },
+        {
+            "id": 20,
+            "title": "Salon Master x hora",
+            "price": 3700,
+            "image": "https://la-nueva-era-del-milenio.000webhostapp.com/salones/Salon20.jpg?auto=compress&amp;h=3055",
+            "category": "Amo"
+        },
+        {
+            "id": 21,
+            "title": "Salon Speed x hora",
+            "price": 4000,
+            "image": "https://la-nueva-era-del-milenio.000webhostapp.com/salones/Salon21.jpg?auto=compress&amp;h=3055",
+            "category": "Mamo"
+        },
+        {
+            "id": 22,
+            "title": "SALON Test x hora",
+            "price": 4000,
+            "image": "https://la-nueva-era-del-milenio.000webhostapp.com/salones/Salon22.jpeg?auto=compress&amp;h=3055",
+            "category": "Mamo"
+        },
+        {
+            "id": 23,
+            "title": "Salon Alma x hora",
+            "price": 4000,
+            "image": "https://la-nueva-era-del-milenio.000webhostapp.com/salones/Salon23.jpg?auto=compress&amp;h=3055",
+            "category": "Mamo"
+        },
+        {
+            "id": 24,
+            "title": "Salon Zero x hora",
+            "price": 4000,
+            "image": "https://la-nueva-era-del-milenio.000webhostapp.com/salones/Salon24.jpg?auto=compress&amp;h=3055",
+            "category": "Mamo"
+        },
+        {
+            "id": 25,
+            "title": "Salon 1 x hora",
+            "price": 1100,
+            "image": "https://la-nueva-era-del-milenio.000webhostapp.com/salones/vacio%201.jpg?auto=compress&amp;h=3055",
+            "category": "Aama"
+        },
+        {
+            "id": 26,
+            "title": "Salon 2 x hora",
+            "price": 1100,
+            "image": "https://la-nueva-era-del-milenio.000webhostapp.com/salones/vacio%202.jpg?auto=compress&amp;h=3055",
+            "category": "Aama"
+        },
+        {
+            "id": 27,
+            "title": "Salon 3 x hora",
+            "price": 1100,
+            "image": "https://la-nueva-era-del-milenio.000webhostapp.com/salones/vacio3.jpg?auto=compress&amp;h=3055",
+            "category": "Aama"
+        },
+        {
+            "id": 28,
+            "title": "Salon 4 x hora",
+            "price": 1100,
+            "image": "https://la-nueva-era-del-milenio.000webhostapp.com/salones/vacio4.jpg?auto=compress&amp;h=3055",
+            "category": "Aama"
+        }
+        
+        
+       
+    ]
+}

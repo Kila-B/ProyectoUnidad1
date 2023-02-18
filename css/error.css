@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&family=Roboto:wght@100;300;400;500;700;900&family=Source+Sans+Pro:wght@200;300;400;600;700;900&display=swap');
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'poppins', sans-serif;
+}
+
+body {
+  width: 100vw;
+  height: 100vh;
+  background: linear-gradient(to bottom right, #ff0000, #d0ff00, #ff0000);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.container {
+  background-color: rgb(255, 255, 255);
+  padding: 6px;
+  width: 350px;
+  height: 450px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+  overflow: hidden;
+  border-radius: 10px;
+  box-shadow: 0 0 20px 0 darkgrey;
+}
+
+h1{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 200;
+  display: flex;
+  height: 100px;
+  justify-content: center;
+  width: 200px;
+  color: #333;
+  margin: auto;
+}
+
+h2{
+    font-weight: 100;
+  display: flexbox;
+  height: 100px;
+  justify-content: center;
+  right: 50%;
+  width: 95%;
+  color: #333;
+  margin: auto;
+}
+
+
+
+.boton {
+border: 1px solid #2e518b; /*anchura, estilo y color borde*/
+padding: 10px; /*espacio alrededor texto*/
+background-color: #2e518b; /*color botón*/
+color: #ffffff; /*color texto*/
+text-decoration: none; /*decoración texto*/
+text-transform: uppercase; /*capitalización texto*/
+font-family: 'Helvetica', sans-serif; /*tipografía texto*/
+border-radius: 50px; /*bordes redondos*/
+}
+@media screen and (max-width: 480px) {
+    body {
+      padding: 20px; /* añadimos padding para evitar que los elementos se corten en pantallas pequeñas */
+    }
+  
+    .container {
+      width: 100%; /* ajustamos el ancho a la pantalla */
+      max-width: none;
+    }
+  }

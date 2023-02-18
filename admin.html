@@ -1,0 +1,217 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Administrador</title>
+    <link rel="stylesheet" type="text/css" href="css/admin.css">
+    	<script src="https://unpkg.com/phosphor-icons"></script>
+
+</head>
+<body>
+
+<!-- start: SIDEBAR -->
+<section id="sidebar">
+    <a href="#" class="brand">
+        <i class="ph-flame-fill"></i>
+    </a>
+
+    <ul class="sidebar__menu">
+        <li>
+            <a href="#" class="active"><i class="ph-house-fill"></i></a>
+            <ul class="sidebar__submenu">
+                <li class="title">Menu</li>
+                <li><a href="#">Lorem Ipsum</a></li>
+                <li><a href="#">Lorem Ipsum</a></li>
+            </ul>
+        </li>
+        <li>
+            <a href="#"><i class="ph-airplay-fill"></i></a>
+            <ul class="sidebar__submenu">
+                <li class="title">Componentes</li>
+                <li><a href="#">Lorem Ipsum</a></li>
+                <li><a href="#">Lorem Ipsum</a></li>
+                <li><a href="#">Lorem Ipsum</a></li>
+                <li><a href="#">Lorem Ipsum</a></li>
+                <li><a href="#">Lorem Ipsum</a></li>
+            </ul>
+        </li>
+        <li>
+            <a href="#"><i class="ph-clipboard-fill"></i></a>
+            <ul class="sidebar__submenu">
+                <li class="title">Formas</li>
+                <li><a href="#">Lorem Ipsum</a></li>
+                <li><a href="#">Lorem Ipsum</a></li>
+                <li><a href="#">Lorem Ipsum</a></li>
+                <li><a href="#">Lorem Ipsum</a></li>
+            </ul>
+        </li>
+        <li>
+            <a href="#"><i class="ph-file-fill"></i></a>
+            <ul class="sidebar__submenu">
+                <li class="title">Paginas</li>
+                <li>
+                    <a href="#">Authentication <i class="ph-caret-right-fill"></i></a>
+                    <ul class="sidebar__dropdown-menu">
+                        <li><a href="#">Iniciar </a></li>
+                        <li><a href="#">Registrarse</a></li>
+                        <li><a href="#">Recuperar contraseña</a></li>
+                    </ul>
+                </li>
+                <li><a href="#">Politica de privacidad</a></li>
+                <li><a href="#">Lorem Ipsum</a></li>
+                <li>
+                    <a href="#">Error <i class="ph-caret-right-fill"></i></a>
+                    <ul class="sidebar__dropdown-menu">
+                        <li><a href="#">404</a></li>
+                        <li><a href="#">503</a></li>
+                        <li><a href="#">Maintenance</a></li>
+                    </ul>
+                </li>
+            </ul>
+        </li>
+        <li>
+            <a href="#"><i class="ph-user-circle-fill"></i></a>
+            <ul class="sidebar__submenu">
+                <li class="title">Accounts</li>
+                <li><a href="#">User settings</a></li>
+                <li><a href="#">Change password</a></li>
+            </ul>
+        </li>
+        <li class="divider"></li>
+        <li>
+            <a href="#"><i class="ph-gear-fill"></i></a>
+        </li>
+        <li>
+            <a href="#" class="logout"><i class="ph-sign-out-fill"></i></a>
+        </li>
+    </ul>
+</section>
+
+<!-- start: SIDEBAR OVERLAY -->
+<div class="sidebar-overlay"></div>
+<!-- end: SIDEBAR OVERLAY -->
+<!-- end: SIDEBAR -->
+
+<!-- start: SIDEBAR MOBILE -->
+<section id="sidebar-mobile">
+    <i class="ph-squares-four-fill toggle-sidebar"></i>
+    <a href="#" class="brand">
+        <i class="ph-flame-fill"></i>
+        Adminweb
+    </a>
+</section>
+<!-- end: SIDEBAR MOBILE -->
+
+<!-- start: MAIN -->
+<section id="main">
+    
+    <!-- start: MAIN TOP -->
+    <div class="main__top">
+        <div class="main__top__title">
+            <h3>Menu de Administrador</h3>
+            <ul class="breadcrumbs">
+                <li><a href="#">Inico</a></li>
+                <li class="divider">/</li>
+                <li><a href="#" class="active">Grafica</a></li>
+            </ul>
+        </div>
+        <ul class="main__top__menu">
+            <li class="search">
+                <a href="#">
+                    <i class="ph-magnifying-glass"></i>
+                </a>
+                <div class="main__dropdown">
+                    <form action="#">
+                        <input type="text" name="" placeholder="Buscar">
+                    </form>
+                    <span>Busquedas Recientes</span>
+                    <ul class="recent-search">
+                        <li>
+                            <a href="#">
+                                <h5>Keyword</h5>
+                                <p>Lorem ipsum dolor sit amet consectetur...</p>
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+            </li>
+            <li class="notification">
+                <a href="#">
+                    <i class="ph-bell"></i>
+                </a>
+                <div class="main__dropdown">
+                    <div class="notification__top">
+                        <h4>Notificaciones</h4>
+                        <span>6</span>
+                    </div>
+                    <ul class="notification__item">
+                        
+                       
+                        
+                       
+                    </ul>
+                </div>
+            </li>
+            <li class="inbox">
+                <a href="#">
+                    <i class="ph-chat-circle-dots"></i>
+                </a>
+                <span></span>
+            </li>
+            <li class="profile">
+                <a href="#">
+                    <img src="https://la-nueva-era-del-milenio.000webhostapp.com/yo.jpeg" alt="">
+                </a>
+                <div class="main__dropdown">
+                    <div class="profile__top">
+                        <img src="https://la-nueva-era-del-milenio.000webhostapp.com/yo.jpeg" alt="">
+                        <div class="name">
+                            <h4>Noe Alejandro</h4>
+                            <p>Diseñador Web</p>
+                        </div>
+                    </div>
+                    <ul class="profile__menu">
+                        <li><a href="#"><i class="ph-user-circle-fill"></i> Editar Perfil</a></li>
+                        <li><a href="#"><i class="ph-gear-fill"></i> Configuracion</a></li>
+                    </ul>
+                </div>
+            </li>
+        </ul>
+    </div>
+    <!-- end: MAIN TOP -->
+
+    <!-- start: MAIN BODY -->
+    <div class="main__body">
+    
+        <div class="main__body__data">
+            <div class="sales-summary">
+                <div class="sales-summary__top">
+                    <h4>Ventas del mes</h4>
+                    <div class="sales-summary__menu">
+                        
+                    </div>
+                </div>
+                
+                <div id="chart"></div>
+            </div>
+            
+        </div>
+    </div>
+    <!-- end: MAIN BODY -->
+
+</section>
+<!-- end: MAIN -->
+
+<script src="https://cdn.jsdelivr.net/npm/apexcharts"></script>
+<script src="js/funlogin.js"></script>
+
+
+
+
+
+
+    
+</body>
+</html>
